@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoalmeida13&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoalmeida13" /> </p>
 
 
-- 🔭 I’m currently working on [Pokenext](https://github.com/TiagoAlmeida13/Pokenext)
+- 🔭 I’m currently working on  [Pokenext](https://github.com/TiagoAlmeida13/Pokenext) 
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **React.js and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://tiagoalmeida13.github.io/portfolio/](https://tiagoalmeida13.github.io/portfolio/)
 
