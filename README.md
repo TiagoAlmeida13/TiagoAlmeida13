@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoalmeida13&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoalmeida13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoalmeida13" alt="tiagoalmeida13" /></a> </p>
 
 - 🔭 I’m currently working on [Pokenext](https://github.com/TiagoAlmeida13/Pokenext)
 
