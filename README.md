@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoalmeida13&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoalmeida13" /> </p>
 
 
-- 🔭 I’m currently working on  [Pokenext](https://github.com/TiagoAlmeida13/NewPortfolio) 
+- 🔭 I’m currently working on  [My new Porfolio website with next, tailwind and framer motion](https://github.com/TiagoAlmeida13/NewPortfolio) 
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
