@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://tiagoalmeida13.github.io/portfolio/](https://tiagoalmeida13.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://tiagoalmeida13.vercel.app)
 
 - 📫 How to reach me **tyygo@live.com**
 
