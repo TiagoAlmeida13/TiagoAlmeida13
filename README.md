@@ -22,6 +22,14 @@
 
 <br>
 
+## 🗺️ Quest Log
+
+- ✅ **Monitor de Website** — *Iguatemi S.A* `mai 2022 – jul 2023` — performance & conversão de e-commerce (Magento/VTEX)
+- ✅ **Desenvolvedor Front-end Júnior** — *LikeWater Communication Solutions* `jun 2021 – nov 2021` — apps em React.js + Material-UI
+- ✅ **Desenvolvedor Front-end** — *Dminer Software e Soluções* `jul 2020 – mar 2021` — plataformas dinâmicas com consumo de API e Vue.js
+
+<br>
+
 ## ⚔️ Skill Tree
 
 <p align="left">
