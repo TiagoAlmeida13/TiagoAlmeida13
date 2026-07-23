@@ -47,8 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tiagoalmeida13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=8E2DE2&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoalmeida13&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=B983FF&currStreakLabel=B983FF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoalmeida13&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=B983FF&currStreakLabel=B983FF" width="60%"/>
 
 <br><br>
 
